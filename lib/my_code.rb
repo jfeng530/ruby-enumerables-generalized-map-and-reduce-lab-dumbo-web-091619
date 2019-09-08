@@ -17,5 +17,7 @@ def reduce (myarray, starting = nil)
     new_array = myarray[0]
     i = 1
   end
-  
+  while i < myarray.length do
+    
+  end
 end
