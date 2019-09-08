@@ -12,5 +12,7 @@ end
 def reduce (myarray, starting = nil)
   if starting
     new_array = starting
-    
+    i = 0
+  else
+    if starting 
 end
