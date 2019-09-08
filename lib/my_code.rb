@@ -11,5 +11,6 @@ end
 
 def reduce (myarray, starting = nil)
   if starting
+    new_array = starting
     
 end
