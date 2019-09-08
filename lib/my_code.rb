@@ -4,5 +4,6 @@ def map (myarray)
   i = 0
   while i < myarray.length do 
     new_array.push(yield(myarray[i]))
+    i += 1
   end
 end
