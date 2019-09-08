@@ -18,6 +18,6 @@ def reduce (myarray, starting = nil)
     i = 1
   end
   while i < myarray.length do
-    
+    new_array = yield[]
   end
 end
