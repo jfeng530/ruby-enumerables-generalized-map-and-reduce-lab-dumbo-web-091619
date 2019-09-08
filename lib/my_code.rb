@@ -21,4 +21,5 @@ def reduce (myarray, starting = nil)
     new_array = yield(new_array, myarray[i])
     i += 1
   end
+  new_array
 end
