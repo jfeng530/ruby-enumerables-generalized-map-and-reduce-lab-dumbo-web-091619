@@ -9,3 +9,6 @@ def map (myarray)
   new_array
 end
 
+def reduce
+  
+end
