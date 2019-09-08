@@ -10,5 +10,6 @@ def map (myarray)
 end
 
 def reduce (myarray, starting = nil)
-  
+  if starting
+    
 end
