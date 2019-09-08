@@ -8,3 +8,4 @@ def map (myarray)
   end
   new_array
 end
+
