@@ -15,5 +15,7 @@ def reduce (myarray, starting = nil)
     i = 0
   else
     new_array = myarray[0]
-    
+    i = 1
+  end
+  
 end
