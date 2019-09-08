@@ -10,8 +10,5 @@ def map (myarray)
 end
 
 def reduce (myarray, starting = nil)
-  new_array = []
-  i = 0
-  while i < myarray.length do
-    new_array.
+  
 end
