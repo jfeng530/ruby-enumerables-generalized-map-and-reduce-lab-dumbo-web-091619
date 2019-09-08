@@ -9,6 +9,7 @@ def map (myarray)
   new_array
 end
 
-def reduce (myarray, starting = 0)
+def reduce (myarray, starting = nil)
+  new_array = []
   
 end
